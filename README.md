@@ -56,3 +56,7 @@ This is an opinionated cheatsheet of modules available on npm that i often use.
 ## Creating Executables
 
 [nexe](https://www.npmjs.org/package/nexe)  
+
+## node-webkit
+
+[node-webkit-builder](https://www.npmjs.org/package/node-webkit-builder)  
