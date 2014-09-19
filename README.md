@@ -35,6 +35,8 @@ This is an opinionated cheatsheet of modules available on npm that i often use.
 [levelup](https://www.npmjs.org/package/levelup)  
 [level-sublevel](https://www.npmjs.org/package/level-sublevel)  
 [level-repair](https://www.npmjs.org/package/level-repair)  
+[level-hooks](https://www.npmjs.org/package/level-hooks)  
+[lev](https://www.npmjs.org/package/lev)  
 
 ## Websockets
 
