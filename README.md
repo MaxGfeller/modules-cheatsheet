@@ -6,11 +6,24 @@ This is an opinionated cheatsheet of modules available on npm that i often use.
 
 [routes](https://www.npmjs.org/package/routes)
 
+## Serving static files
+
+[st](https://www.npmjs.org/package/st)
+
 ## Browserify related
 
 [browserify](https://www.npmjs.org/package/browserify)
 [watchify](https://www.npmjs.org/package/watchify)
 [brfs](https://www.npmjs.org/package/brfs)
+[catw](https://www.npmjs.org/package/catw)
+
+## Various Browser libs
+
+[domify](https://www.npmjs.org/package/domify)
+[page](https://www.npmjs.org/package/page)
+[cuid](https://www.npmjs.org/package/cuid)
+[filer](https://www.npmjs.org/package/filer)
+[hyperglue](https://www.npmjs.org/package/hyperglue)
 
 ## WebRTC
 
