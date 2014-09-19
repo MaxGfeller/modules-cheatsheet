@@ -51,6 +51,7 @@ This is an opinionated cheatsheet of modules available on npm that i often use.
 [runnel](https://www.npmjs.org/package/runnel)  
 [suspend](https://www.npmjs.org/package/suspend)  
 [fibers](https://www.npmjs.org/package/fibers)  
+[after-all](https://www.npmjs.org/package/after-all)  
 
 ## Creating Executables
 
